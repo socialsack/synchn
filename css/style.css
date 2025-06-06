@@ -1637,7 +1637,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
     background-size: contain;
     background-position: center;
     position: relative;
-    bottom: -165px; }
+    }
 
 @media (max-width: 991px) {
   .banner {
@@ -2645,3 +2645,9 @@ ul.sidebar-category li.active a {
   border-top: 3px solid #1e85be; }
 
 /*# sourceMappingURL=style.css.map */
+
+@media (max-width: 768px) {
+  .ah-words-wrapper b {
+    font-size: smaller
+  }
+}

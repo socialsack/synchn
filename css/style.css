@@ -2582,12 +2582,12 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   text-align: center;
   height: 120px;
   line-height: 120px;
-  background: #fff;
+  /* background: #fff; */
 }
 .event-partners .partners_inner .partner-list img {
-  opacity: 0.7;
+  /* opacity: 0.7; */
   transition: all ease-in-out 0.5s;
-  filter: grayscale(100%);
+  /* filter: grayscale(100%); */
   width: 60%;
 }
 .event-partners .partners_inner .partner-list:hover img {

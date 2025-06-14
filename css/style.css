@@ -3789,8 +3789,8 @@ ul.sidebar-category li.active a {
 
 #about-us,
 #speakers,
-#contact-us {
-  scroll-margin-top: -50px;
+#contact-us, #partners {
+  scroll-margin-top: 80px;
 }
 .speakerz-section {
   padding: 60px 20px;

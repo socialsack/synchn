@@ -2438,7 +2438,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 }
 .banner .banner-in .banner-image {
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   background-size: contain;
   background-position: center;
   position: relative;
@@ -3867,6 +3867,17 @@ ul.sidebar-category li.active a {
   .industrymeet{
     font-size: 90px;
   }
+  .banner-image {
+padding-top: 25px;
+  min-height: 400px; /* adjust as needed */
+  overflow: hidden;
+}
+
+}
+@media (min-width: 1024px) {
+.my-lg-10{
+  margin: 5rem 0;
+}
 }
 @media (max-width: 1100px) {
   .navbar-brand img {
@@ -3884,4 +3895,17 @@ ul.sidebar-category li.active a {
    .footer-about img {
   height: 70px;
 }
+}
+.banner-image {
+  width: 100%;
+  /* height: 100%; */
+display: flex;
+align-items: top;
+}
+
+.video-bg {  
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  z-index: 0;
 }

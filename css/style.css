@@ -3878,6 +3878,9 @@ padding-top: 25px;
 .my-lg-10{
   margin: 5rem 0;
 }
+.about-us-style{
+font-size: smaller;
+}
 }
 @media (max-width: 1100px) {
   .navbar-brand img {

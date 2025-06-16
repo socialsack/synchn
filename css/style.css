@@ -3872,6 +3872,9 @@ padding-top: 25px;
   min-height: 400px; /* adjust as needed */
   overflow: hidden;
 }
+.impact{
+  left: 110px !important;
+}
 
 }
 @media (min-width: 1024px) {
@@ -3881,6 +3884,7 @@ padding-top: 25px;
 .about-us-style{
 font-size: smaller;
 }
+
 }
 @media (max-width: 1100px) {
   .navbar-brand img {
@@ -3897,6 +3901,9 @@ font-size: smaller;
   }
    .footer-about img {
   height: 70px;
+}
+.impact{
+  left: 60px !important;
 }
 }
 .banner-image {

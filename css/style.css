@@ -3887,6 +3887,9 @@ padding-top: 25px;
 .about-us-style{
 font-size: smaller;
 }
+.ah-headline-1 {
+  font-size: 51px;
+}
 
 }
 @media (max-width: 1100px) {

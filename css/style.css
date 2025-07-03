@@ -1709,7 +1709,7 @@ header #navbar {
 }
 .main_header_area .header_menu .navbar.navbar-default .nav.navbar-nav li a {
   color: #707070;
-  padding: 10px;
+  padding: 4px;
 }
 .main_header_area
   .header_menu
@@ -1831,7 +1831,7 @@ header #navbar {
 }
 .header_menu .navbar.navbar-default .nav.navbar-nav li a {
   background: transparent;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
   padding: 0px;
